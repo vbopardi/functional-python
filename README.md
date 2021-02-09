@@ -1,4 +1,4 @@
-# Functional Python [![](https://github.com/mikeizbicki/functional-python/workflows/tests/badge.svg)](https://github.com/mikeizbicki/functional-python/actions?query=workflow%3Atests)
+# Functional Python [![](https://github.com/vbopardi/functional-python/workflows/tests/badge.svg)](https://github.com/vbopardi/functional-python/actions?query=workflow%3Atests)
 
 ## Instructions
 
@@ -10,6 +10,6 @@
 
 Paste the URL to your github repo into sakai. The URL should be of the format
 
-https://github.com/mikeizbicki/functional-python
+https://github.com/vbopardi/functional-python
 
 but with your github username instead of mine.
