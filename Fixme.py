@@ -76,7 +76,7 @@ def squares(n):
     [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
     '''
 
-    return [n**2 for n in range(1, n + 1)]
+    return [n*n for n in range(1, n + 1)]
 
 
 def lengths(strings):
